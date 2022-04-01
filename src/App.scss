@@ -1,0 +1,14 @@
+body {
+  background-color: var(--bs-gray-600);
+}
+
+.navbar-toggler {
+  border-radius: 0.125px;
+  padding: 0.25rem 0.5rem;
+}
+
+@media print {
+  body {
+    background-color: transparent !important;
+  }
+}

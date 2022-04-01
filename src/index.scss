@@ -1,0 +1,15 @@
+// override defaults before importing base Bootstrap scss.
+$display-font-sizes: (
+  1: 4rem,
+  2: 3rem,
+  3: 2.5rem,
+  4: 2rem,
+  5: 1.5rem,
+  6: 1.25rem
+);
+
+$display-font-weight: 300;
+
+// import bootstrap and its default variables.
+@import '~bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-icons/font/bootstrap-icons.scss';
