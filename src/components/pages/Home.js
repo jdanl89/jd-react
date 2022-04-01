@@ -17,7 +17,7 @@ const Home = () => {
                 <div className="row">
                     <Header />
                 </div>
-                <div className="row mt-4 mb-4 mx-4">
+                <div className="row mt-4 mb-4 mx-md-2 mx-lg-4">
                     <div className="col-lg-8">
                         <Segment title="About Me">
                             <About />
