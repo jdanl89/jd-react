@@ -18,7 +18,7 @@ const Footer = () => {
                             <i className="bi bi-linkedin"></i>
                             <span className="visually-hidden">LinkedIn</span>
                         </a>
-                        <a href="https://www.github/jdanl89" target="_blank" className="btn btn-dark btn-floating m-2" role="button">
+                        <a href="https://www.github.com/jdanl89" target="_blank" className="btn btn-dark btn-floating m-2" role="button">
                             <i className="bi bi-github"></i>
                             <span className="visually-hidden">Github</span>
                         </a>
